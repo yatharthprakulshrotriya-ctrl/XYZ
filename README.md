@@ -1,4 +1,4 @@
-please consider frontend.zip and node_script as the complete frontend file
+please consider frontend.zip and node_modules as the complete frontend file
 Run instructions to include in README
 
 Backend setup
